@@ -1,0 +1,28 @@
+# PDFs (livros de entrada e capítulos gerados)
+*.pdf
+*_capitulos/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
